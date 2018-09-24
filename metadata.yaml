@@ -1,5 +1,8 @@
 _repo: Ket-kritika_56835
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Babits, Mihály
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40766
     wikipedia: http://hu.wikipedia.org/wiki/Babits_Mih%C3%A1ly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56835#Ket-kritika
 gutenberg_issued: '2018-03-25'
 gutenberg_type: Text
 identifiers:
